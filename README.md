@@ -33,7 +33,19 @@
    ```shell
    $ java -version
    ```
-4. How to set up the JAVA_HOME on Mac?
+4. How to set up the JAVA_HOME on Mac?   
+   Using bash, run the below command line:
+   ```shell
+   echo export "JAVA_HOME=\$(/usr/libexec/java_home)" >> ~/.bash_profile
+   ```
+
+   Using zsh, run the below command line:
+   ```shell
+   echo export "JAVA_HOME=\$(/usr/libexec/java_home)" >> ~/.zshrc
+   ```
+   After the command execution is done, restart the command line. Use the ```echo $JAVA_HOME``` to update the result.
+   
+5. 
    
 
 ## Linux
