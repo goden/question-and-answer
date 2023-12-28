@@ -5,16 +5,7 @@
 ## MAC OS
 
 1. [How to get the MAC OS version?](/mac/1.md)
-2. How to identify the command line we are using?
-   Run below command to get the information:
-
-   ```shell
-   echo $SHELL
-   ```
-
-   On macOS 10.15 Catalina and later, the default Terminal shell switches from the bash to zsh.
-   - For bash shell, we can put the environment variables at ~/.bash_profile or ~/.bashrc.
-   - For zsh shell, we can put the environment variables at ~/.zshenv or ~/.zshrc.
+2. [How to identify the command line we are using?](/mac/2.md)
 
 3. How to remove JDK installation from the command line?
    Navigate to the root directory in which the Java virtual machines are installed.
