@@ -9,6 +9,7 @@
 3. [How to remove JDK installation in the command line?](/mac/3.md)
 4. [How to set up the JAVA_HOME on Mac?](/mac/4.md)
 5. [How to install Maven on Mac?](/mac/5.md)
+6. ["Failed to create the java machine" when launching Eclipse.](/mac/6.md)
 
 ## Linux
 
